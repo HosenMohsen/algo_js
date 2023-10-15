@@ -1,0 +1,2 @@
+voici la vidéo explication de l'algo js :  https://youtu.be/Ix8DdcToepY
+le record n'a pas été fait sur le même pc mais bien sur avec le même js donc il n'est juste pas dans le même dossier sur la vidéo (petit précision au cas ou)
